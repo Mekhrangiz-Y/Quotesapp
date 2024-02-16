@@ -98,3 +98,14 @@ left: -30px;
     background: transparent;
     color: #333;
 }
+
+@media (max-width: 720px) {
+    .quote-box {
+      width: 500px;
+    }
+  }
+  @media (max-width: 50px) {
+    .quote-box {
+      width: 400px;
+    }
+  }
